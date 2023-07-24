@@ -1,0 +1,4 @@
+name: FlowCore
+version: '${project.version}'
+main: io.github.diesesfloo.flowcore.FlowCore
+api-version: 1.20
